@@ -169,6 +169,7 @@
     <!-- Add extension libraries here -->
     <!-- Example: <copy toFile="${public.deps.dir}/my-dependency.jar" file="${lib.dir}/my-dependency/my-dependency-1.0.0.jar" /> -->
     <!-- Remember to include my-dependency.jar in the @UsesLibraries annotation in the extension -->
+    <copy toFile="${public.deps.dir}/youtube.jar" file="${lib.dir}/kangris/youtube.jar" />
   </target>
 
   <path id="AndroidRuntime.path">
