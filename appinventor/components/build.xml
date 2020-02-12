@@ -170,8 +170,8 @@
     <!-- Example: <copy toFile="${public.deps.dir}/my-dependency.jar" file="${lib.dir}/my-dependency/my-dependency-1.0.0.jar" /> -->
     <!-- Remember to include my-dependency.jar in the @UsesLibraries annotation in the extension -->
     <copy toFile="${public.deps.dir}/youtube.jar" file="${lib.dir}/kangris/youtube.jar" />
-    <copy toFile="${public.deps.dir}/unity-ads.jar" file="${lib.dir}/kangris/unity-ads.jar" />
-    <copy toFile="${public.deps.dir}/unity-ads.aar" file="${lib.dir}/kangris/unity-ads.aar" />
+    <copy toFile="${public.deps.dir}/unity-ads.jar" file="${lib.dir}/kangris/unity-ads-3.4.0.jar" />
+    <copy toFile="${public.deps.dir}/unity-ads.aar" file="${lib.dir}/kangris/unity-ads-3.4.0.aar" />
   </target>
 
   <path id="AndroidRuntime.path">
