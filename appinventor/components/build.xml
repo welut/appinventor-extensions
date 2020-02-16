@@ -175,6 +175,8 @@
        <copy toFile="${public.deps.dir}/ytextract.jar" file="${lib.dir}/kangris/ytextract.jar" />
        <copy toFile="${public.deps.dir}/giraffeplayer2.jar" file="${lib.dir}/kangris/giraffeplayer2-0.1.25.jar" />
        <copy toFile="${public.deps.dir}/giraffeplayer2.aar" file="${lib.dir}/kangris/giraffeplayer2-0.1.25.aar" />
+       <copy toFile="${public.deps.dir}/spruce-android.jar" file="${lib.dir}/kangris/spruce-android.jar" />
+       <copy toFile="${public.deps.dir}/spruce-android.aar" file="${lib.dir}/kangris/spruce-android.aar" />
   </target>
 
   <path id="AndroidRuntime.path">
