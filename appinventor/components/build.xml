@@ -187,6 +187,10 @@
        <copy toFile="${public.deps.dir}/tooltip.aar" file="${lib.dir}/kangris/tooltip-0.2.0.aar" />
        <copy toFile="${public.deps.dir}/youtubejextractor.jar" file="${lib.dir}/kangris/youtubejextractor.jar" />
        <copy toFile="${public.deps.dir}/youtubejextractor.aar" file="${lib.dir}/kangris/youtubejextractor.aar" />
+       <copy toFile="${public.deps.dir}/RoundCornerProgressBar.jar" file="${lib.dir}/kangris/RoundCornerProgressBar-2.0.3.jar" />
+       <copy toFile="${public.deps.dir}/RoundCornerProgressBar.aar" file="${lib.dir}/kangris/RoundCornerProgressBar-2.0.3.aar" />
+       <copy toFile="${public.deps.dir}/google-direction.jar" file="${lib.dir}/kangris/google-direction-library-1.2.0.jar" />
+       <copy toFile="${public.deps.dir}/google-direction.aar" file="${lib.dir}/kangris/google-direction-library-1.2.0.aar" />
 
       
   </target>
