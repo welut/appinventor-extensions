@@ -191,6 +191,8 @@
        <copy toFile="${public.deps.dir}/RoundCornerProgressBar.aar" file="${lib.dir}/kangris/RoundCornerProgressBar-2.0.3.aar" />
        <copy toFile="${public.deps.dir}/google-direction.jar" file="${lib.dir}/kangris/google-direction-library-1.2.0.jar" />
        <copy toFile="${public.deps.dir}/google-direction.aar" file="${lib.dir}/kangris/google-direction-library-1.2.0.aar" />
+       <copy toFile="${public.deps.dir}/keyboardview.jar" file="${lib.dir}/kangris/keyboardview.jar" />
+       <copy toFile="${public.deps.dir}/keyboardview.aar" file="${lib.dir}/kangris/keyboardview.aar" />
 
       
   </target>
