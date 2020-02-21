@@ -195,8 +195,9 @@
        <copy toFile="${public.deps.dir}/keyboardview.aar" file="${lib.dir}/kangris/keyboardview.aar" />
        <copy toFile="${public.deps.dir}/equalizers.jar" file="${lib.dir}/kangris/equalizers.jar" />
        <copy toFile="${public.deps.dir}/equalizers.aar" file="${lib.dir}/kangris/equalizers.aar" />
-
-      
+       <copy toFile="${public.deps.dir}/playercontrolview.jar" file="${lib.dir}/kangris/playercontrolview-1.0.1.jar" />
+       <copy toFile="${public.deps.dir}/playercontrolview.aar" file="${lib.dir}/kangris/playercontrolview-1.0.1.aar" />
+       
   </target>
 
   <path id="AndroidRuntime.path">
