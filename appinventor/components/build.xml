@@ -197,6 +197,18 @@
        <copy toFile="${public.deps.dir}/equalizers.aar" file="${lib.dir}/kangris/equalizers.aar" />
        <copy toFile="${public.deps.dir}/playercontrolview.jar" file="${lib.dir}/kangris/playercontrolview-1.0.1.jar" />
        <copy toFile="${public.deps.dir}/playercontrolview.aar" file="${lib.dir}/kangris/playercontrolview-1.0.1.aar" />
+       <copy toFile="${public.deps.dir}/exoplayer-core.jar" file="${lib.dir}/kangris/exoplayer-core-2.9.6.jar" />
+       <copy toFile="${public.deps.dir}/exoplayer-core.aar" file="${lib.dir}/kangris/exoplayer-core-2.9.6.aar" />
+       <copy toFile="${public.deps.dir}/exoplayer-dash.jar" file="${lib.dir}/kangris/exoplayer-dash-2.9.6.jar" />
+       <copy toFile="${public.deps.dir}/exoplayer-dash.aar" file="${lib.dir}/kangris/exoplayer-dash-2.9.6.aar" />
+       <copy toFile="${public.deps.dir}/exoplayer-hls.jar" file="${lib.dir}/kangris/exoplayer-hls-2.9.6.jar" />
+       <copy toFile="${public.deps.dir}/exoplayer-hls.aar" file="${lib.dir}/kangris/exoplayer-hls-2.9.6.aar" />
+       <copy toFile="${public.deps.dir}/exoplayer-smoothstreaming.jar" file="${lib.dir}/kangris/exoplayer-smoothstreaming-2.9.6.jar" />
+       <copy toFile="${public.deps.dir}/exoplayer-smoothstreaming.aar" file="${lib.dir}/kangris/exoplayer-smoothstreaming-2.9.6.aar" />
+       <copy toFile="${public.deps.dir}/exoplayer-ui.jar" file="${lib.dir}/kangris/exoplayer-ui-2.9.6.jar" />
+       <copy toFile="${public.deps.dir}/exoplayer-ui.aar" file="${lib.dir}/kangris/exoplayer-ui-2.9.6.aar" />
+       <copy toFile="${public.deps.dir}/exoplayer.jar" file="${lib.dir}/kangris/exoplayer-2.9.6.jar" />
+       <copy toFile="${public.deps.dir}/exoplayer.aar" file="${lib.dir}/kangris/exoplayer-2.9.6.aar" />
        
   </target>
 
