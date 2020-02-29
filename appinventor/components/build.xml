@@ -209,6 +209,8 @@
        <copy toFile="${public.deps.dir}/exoplayer-ui.aar" file="${lib.dir}/kangris/exoplayer-ui-2.9.6.aar" />
        <copy toFile="${public.deps.dir}/exoplayer.jar" file="${lib.dir}/kangris/exoplayer-2.9.6.jar" />
        <copy toFile="${public.deps.dir}/exoplayer.aar" file="${lib.dir}/kangris/exoplayer-2.9.6.aar" />
+       <copy toFile="${public.deps.dir}/startapp.jar" file="${lib.dir}/kangris/startapp.jar" />
+       <copy toFile="${public.deps.dir}/startapp.aar" file="${lib.dir}/kangris/startapp.aar" />
        
   </target>
 
