@@ -213,6 +213,8 @@
        <copy toFile="${public.deps.dir}/startapp.aar" file="${lib.dir}/kangris/startapp.aar" />
        <copy toFile="${public.deps.dir}/HomeLockerLib.jar" file="${lib.dir}/kangris/HomeLockerLib.jar" />
        <copy toFile="${public.deps.dir}/selectedtextview.jar" file="${lib.dir}/kangris/selectedtextview.jar" />
+       <copy toFile="${public.deps.dir}/audioplayerview.jar" file="${lib.dir}/kangris/audioplayerview-release.jar" />
+       <copy toFile="${public.deps.dir}/audioplayerview.aar" file="${lib.dir}/kangris/audioplayerview-release.aar" />
        
   </target>
 
