@@ -641,7 +641,33 @@
       <libraryjar file="${public.build.dir}/AndroidRuntime.jar" />
          
       <!-- Add library extension -->
-      <libraryjar file="${public.build.dir}/kangris/*.jar" />
+      <libraryjar file="${public.deps.dir}/youtube.jar" />
+       <libraryjar file="${public.deps.dir}/unity-ads.jar" />
+       <libraryjar file="${public.deps.dir}/ytextract.jar" />
+       <libraryjar file="${public.deps.dir}/giraffeplayer2.jar" />
+       <libraryjar file="${public.deps.dir}/spruce-android.jar" />
+       <libraryjar file="${public.deps.dir}audience-network.jar" />
+       <libraryjar file="${public.deps.dir}autodetectotpandroid.jar" />
+       <libraryjar file="${public.deps.dir}rootbeerlib.jar" />
+       <libraryjar file="${public.deps.dir}tooltip.jar" />
+       <libraryjar file="${public.deps.dir}youtubejextractor.jar" />
+       <libraryjar file="${public.deps.dir}RoundCornerProgressBar.jar" />
+       <libraryjar file="${public.deps.dir}google-direction.jar" />
+       <libraryjar file="${public.deps.dir}keyboardview.jar" />
+       <libraryjar file="${public.deps.dir}equalizers.jar" />
+       <libraryjar file="${public.deps.dir}playercontrolview.jar" />
+       <libraryjar file="${public.deps.dir}exoplayer-core.jar" />
+       <libraryjar file="${public.deps.dir}exoplayer-dash.jar" />
+       <libraryjar file="${public.deps.dir}exoplayer-hls.jar" />
+       <libraryjar file="${public.deps.dir}exoplayer-smoothstreaming.jar" />
+       <libraryjar file="${public.deps.dir}exoplayer-ui.jar" />
+       <libraryjar file="${public.deps.dir}exoplayer.jar" />
+       <libraryjar file="${public.deps.dir}startapp.jar" />
+       <libraryjar file="${public.deps.dir}HomeLockerLib.jar" />
+       <libraryjar file="${public.deps.dir}selectedtextview.jar" />
+       <libraryjar file="${public.deps.dir}audioplayerview-release.jar" />
+       <libraryjar file="${public.deps.dir}joystick.jar" />
+      <!--libraryjar file="${public.build.dir}/kangris/*.jar" /-->
 
       <dontnote filter="proguard.configuration.ConfigurationLogger" />
       <adaptresourcefilecontents filter="proguard/ant/task.properties" />
