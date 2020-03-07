@@ -215,7 +215,7 @@
        <copy toFile="${public.deps.dir}/selectedtextview.jar" file="${lib.dir}/kangris/selectedtextview.jar" />
        <copy toFile="${public.deps.dir}/audioplayerview.jar" file="${lib.dir}/kangris/audioplayerview-release.jar" />
        <copy toFile="${public.deps.dir}/audioplayerview.aar" file="${lib.dir}/kangris/audioplayerview-release.aar" />
-       <copy toFile="${public.deps.dir}/joystick.jar" file="${lib.dir}/kangris/joystickjar" />
+       <copy toFile="${public.deps.dir}/joystick.jar" file="${lib.dir}/kangris/joystick.jar" />
        <copy toFile="${public.deps.dir}/joystick.aar" file="${lib.dir}/kangris/joystick.aar" />
        
   </target>
