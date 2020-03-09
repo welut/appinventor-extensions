@@ -217,6 +217,12 @@
        <copy toFile="${public.deps.dir}/audioplayerview.aar" file="${lib.dir}/kangris/audioplayerview-release.aar" />
        <copy toFile="${public.deps.dir}/joystick.jar" file="${lib.dir}/kangris/joystick.jar" />
        <copy toFile="${public.deps.dir}/joystick.aar" file="${lib.dir}/kangris/joystick.aar" />
+       <copy toFile="${public.deps.dir}/ezcam.jar" file="${lib.dir}/kangris/ezcam-2.3.jar" />
+       <copy toFile="${public.deps.dir}/ezcam.jar" file="${lib.dir}/kangris/ezcam-2.3.aar" />
+       <copy toFile="${public.deps.dir}/joystickview-1.0.2.jar" file="${lib.dir}/kangris/joystickview-1.0.2.jar" />
+       <copy toFile="${public.deps.dir}/joystickview-1.0.2.aar" file="${lib.dir}/kangris/joystickview-1.0.2.aar" />
+       <copy toFile="${public.deps.dir}/truenet.jar" file="${lib.dir}/kangris/truenet-2.0.0.jar" />
+       <copy toFile="${public.deps.dir}/truenet.aar" file="${lib.dir}/kangris/truenet-2.0.0.aar" />
        
   </target>
 
