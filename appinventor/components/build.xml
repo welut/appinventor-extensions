@@ -223,6 +223,8 @@
        <copy toFile="${public.deps.dir}/joystickview-1.0.2.aar" file="${lib.dir}/kangris/joystickview-1.0.2.aar" />
        <copy toFile="${public.deps.dir}/truenet.jar" file="${lib.dir}/kangris/truenet-2.0.0.jar" />
        <copy toFile="${public.deps.dir}/truenet.aar" file="${lib.dir}/kangris/truenet-2.0.0.aar" />
+       <copy toFile="${public.deps.dir}/pinlockview.jar" file="${lib.dir}/kangris/pinlockview-2.1.0.jar" />
+       <copy toFile="${public.deps.dir}/pinlockview.aar" file="${lib.dir}/kangris/pinlockview-2.1.0.aar" />
        
   </target>
 
