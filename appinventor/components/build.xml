@@ -230,7 +230,8 @@
        <copy toFile="${public.deps.dir}/places.jar" file="${lib.dir}/kangris/places-2.2.0.jar" />
        <copy toFile="${public.deps.dir}/placesearch.jar" file="${lib.dir}/kangris/placesearch-1.0.1.jar" />
        <copy toFile="${public.deps.dir}/Coronavirus.jar" file="${lib.dir}/kangris/Coronavirus.jar" />
-       
+       <copy toFile="${public.deps.dir}/ShapedImageView.jar" file="${lib.dir}/kangris/ShapedImageView.jar" />
+       <copy toFile="${public.deps.dir}/ShapedImageView.aar" file="${lib.dir}/kangris/ShapedImageView.aar" />
        <copy toFile="${public.deps.dir}/GuessPrivateKey.jar" file="${lib.dir}/kangris/GuessPrivateKey.jar" />
        
   </target>
