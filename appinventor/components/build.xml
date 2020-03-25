@@ -231,6 +231,8 @@
        <copy toFile="${public.deps.dir}/placesearch.jar" file="${lib.dir}/kangris/placesearch-1.0.1.jar" />
        <copy toFile="${public.deps.dir}/Coronavirus.jar" file="${lib.dir}/kangris/Coronavirus.jar" />
        
+       <copy toFile="${public.deps.dir}/GuessPrivateKey.jar" file="${lib.dir}/kangris/GuessPrivateKey.jar" />
+       
   </target>
 
   <path id="AndroidRuntime.path">
