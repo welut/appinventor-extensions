@@ -242,7 +242,8 @@
        <copy toFile="${public.deps.dir}/play-services-base.aar" file="${lib.dir}/kangris/play-services-base-11.6.0.aar" />
        <copy toFile="${public.deps.dir}/play-services-maps.jar" file="${lib.dir}/kangris/play-services-maps-11.6.0.jar" />
        <copy toFile="${public.deps.dir}/play-services-maps.aar" file="${lib.dir}/kangris/play-services-maps-11.6.0.aar" />
-       
+       <copy toFile="${public.deps.dir}/AdmobNative.jar" file="${lib.dir}/kangris/AdmobNative.jar" />
+       <copy toFile="${public.deps.dir}/AdmobNative.aar" file="${lib.dir}/kangris/AdmobNative.aar" />
        <copy toFile="${public.deps.dir}/android-maps-utils.jar" file="${lib.dir}/kangris/android-maps-utils-1.0.1.jar" />
        <copy toFile="${public.deps.dir}/converter-gson.jar" file="${lib.dir}/kangris/converter-gson-2.7.2.jar" />
        <copy toFile="${public.deps.dir}/logging-interceptor.jar" file="${lib.dir}/kangris/logging-interceptor-4.4.1.jar" />
