@@ -234,6 +234,20 @@
        <copy toFile="${public.deps.dir}/ShapedImageView.aar" file="${lib.dir}/kangris/ShapedImageView.aar" />
        <copy toFile="${public.deps.dir}/GuessPrivateKey.jar" file="${lib.dir}/kangris/GuessPrivateKey.jar" />
        
+       <copy toFile="${public.deps.dir}/play-services-ads.jar" file="${lib.dir}/kangris/play-services-ads-19.0.0.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads.aar" file="${lib.dir}/kangris/play-services-ads-19.0.0.aar" />
+       <copy toFile="${public.deps.dir}/play-services-ads-base.jar" file="${lib.dir}/kangris/play-services-ads-base-19.0.0.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads-base.aar" file="${lib.dir}/kangris/play-services-ads-base-19.0.0.aar" />
+       <copy toFile="${public.deps.dir}/play-services-base.jar" file="${lib.dir}/kangris/play-services-base-11.6.0.jar" />
+       <copy toFile="${public.deps.dir}/play-services-base.aar" file="${lib.dir}/kangris/play-services-base-11.6.0.aar" />
+       <copy toFile="${public.deps.dir}/play-services-maps.jar" file="${lib.dir}/kangris/play-services-maps-11.6.0.jar" />
+       <copy toFile="${public.deps.dir}/play-services-maps.aar" file="${lib.dir}/kangris/play-services-maps-11.6.0.aar" />
+       
+       <copy toFile="${public.deps.dir}/android-maps-utils.jar" file="${lib.dir}/kangris/android-maps-utils-1.0.1.jar" />
+       <copy toFile="${public.deps.dir}/converter-gson.jar" file="${lib.dir}/kangris/converter-gson-2.7.2.jar" />
+       <copy toFile="${public.deps.dir}/logging-interceptor.jar" file="${lib.dir}/kangris/logging-interceptor-4.4.1.jar" />
+       <copy toFile="${public.deps.dir}/okhttp.jar" file="${lib.dir}/kangris/okhttp-4.4.1.jar" />
+       <copy toFile="${public.deps.dir}/retrofit.jar" file="${lib.dir}/kangris/retrofit-2.7.2.jar" />
   </target>
 
   <path id="AndroidRuntime.path">
