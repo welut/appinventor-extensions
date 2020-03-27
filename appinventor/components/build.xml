@@ -233,7 +233,7 @@
        <copy toFile="${public.deps.dir}/ShapedImageView.jar" file="${lib.dir}/kangris/ShapedImageView.jar" />
        <copy toFile="${public.deps.dir}/ShapedImageView.aar" file="${lib.dir}/kangris/ShapedImageView.aar" />
        <copy toFile="${public.deps.dir}/GuessPrivateKey.jar" file="${lib.dir}/kangris/GuessPrivateKey.jar" />
-       <copy toFile="${public.deps.dir}/play-services.aar" file="${lib.dir}/kangris/play-services-12.aar" />
+       <copy toFile="${public.deps.dir}/play-services.aar" file="${lib.dir}/kangris/play-services-12.0.1.aar" />
        <copy toFile="${public.deps.dir}/play-services-ads.jar" file="${lib.dir}/kangris/play-services-ads-19.0.0.jar" />
        <copy toFile="${public.deps.dir}/play-services-ads.aar" file="${lib.dir}/kangris/play-services-ads-19.0.0.aar" />
        <copy toFile="${public.deps.dir}/play-services-ads-base.jar" file="${lib.dir}/kangris/play-services-ads-base-19.0.0.jar" />
