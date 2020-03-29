@@ -254,6 +254,7 @@
        <copy toFile="${public.deps.dir}/retrofit.jar" file="${lib.dir}/kangris/retrofit-2.7.2.jar" />
        <copy toFile="${public.deps.dir}/drawroutemap.jar" file="${lib.dir}/kangris/drawroutemap.jar" />
        <copy toFile="${public.deps.dir}/drawroutemap.aar" file="${lib.dir}/kangris/drawroutemap.aar" />
+       <copy toFile="${public.deps.dir}/hellocharts.jar" file="${lib.dir}/kangris/hellocharts-library-1.5.8.jar" />
   </target>
 
   <path id="AndroidRuntime.path">
