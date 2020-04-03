@@ -258,6 +258,9 @@
        <copy toFile="${public.deps.dir}/usbserial.jar" file="${lib.dir}/kangris/usbserial.jar" />
        <copy toFile="${public.deps.dir}/fullscreenvideoview.jar" file="${lib.dir}/kangris/fullscreenvideoview.jar" />
        <copy toFile="${public.deps.dir}/fullscreenvideoview.aar" file="${lib.dir}/kangris/fullscreenvideoview.aar" />
+       <copy toFile="${public.deps.dir}/mathview.jar" file="${lib.dir}/kangris/mathview.jar" />
+       <copy toFile="${public.deps.dir}/chunk-templates.jar" file="${lib.dir}/kangris/chunk-templates-3.0.1.jar" />
+       <copy toFile="${public.deps.dir}/mathview.aar" file="${lib.dir}/kangris/mathview.aar" />
   </target>
 
   <path id="AndroidRuntime.path">
