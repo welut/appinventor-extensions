@@ -263,6 +263,8 @@
        <copy toFile="${public.deps.dir}/mathview.aar" file="${lib.dir}/kangris/mathview.aar" />
        <copy toFile="${public.deps.dir}/spinningwheel.jar" file="${lib.dir}/kangris/spinningwheel.jar" />
        <copy toFile="${public.deps.dir}/spinningwheel.aar" file="${lib.dir}/kangris/spinningwheel.aar" />
+       <copy toFile="${public.deps.dir}/luckywheelview.jar" file="${lib.dir}/kangris/luckywheelview.jar" />
+       <copy toFile="${public.deps.dir}/luckywheelview.aar" file="${lib.dir}/kangris/luckywheelview.aar" />
        
   </target>
 
