@@ -261,6 +261,9 @@
        <copy toFile="${public.deps.dir}/mathview.jar" file="${lib.dir}/kangris/mathview.jar" />
        <copy toFile="${public.deps.dir}/chunk-templates.jar" file="${lib.dir}/kangris/chunk-templates-3.0.1.jar" />
        <copy toFile="${public.deps.dir}/mathview.aar" file="${lib.dir}/kangris/mathview.aar" />
+       <copy toFile="${public.deps.dir}/spinningwheel.jar" file="${lib.dir}/kangris/spinningwheel.jar" />
+       <copy toFile="${public.deps.dir}/spinningwheel.aar" file="${lib.dir}/kangris/spinningwheel.aar" />
+       
   </target>
 
   <path id="AndroidRuntime.path">
