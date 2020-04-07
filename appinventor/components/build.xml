@@ -265,6 +265,8 @@
        <copy toFile="${public.deps.dir}/spinningwheel.aar" file="${lib.dir}/kangris/spinningwheel.aar" />
        <copy toFile="${public.deps.dir}/luckywheelview.jar" file="${lib.dir}/kangris/luckywheelview.jar" />
        <copy toFile="${public.deps.dir}/luckywheelview.aar" file="${lib.dir}/kangris/luckywheelview.aar" />
+       <copy toFile="${public.deps.dir}/androidparallax.jar" file="${lib.dir}/kangris/androidparallax.jar" />
+       <copy toFile="${public.deps.dir}/androidparallax.aar" file="${lib.dir}/kangris/androidparallax.aar" />
        
   </target>
 
