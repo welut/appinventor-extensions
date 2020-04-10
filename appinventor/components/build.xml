@@ -267,6 +267,8 @@
        <copy toFile="${public.deps.dir}/luckywheelview.aar" file="${lib.dir}/kangris/luckywheelview.aar" />
        <copy toFile="${public.deps.dir}/androidparallax.jar" file="${lib.dir}/kangris/androidparallax.jar" />
        <copy toFile="${public.deps.dir}/androidparallax.aar" file="${lib.dir}/kangris/androidparallax.aar" />
+       <copy toFile="${public.deps.dir}/cloudinary-android.jar" file="${lib.dir}/kangris/cloudinary-android-1.12.0.jar" />
+       <copy toFile="${public.deps.dir}/cloudinary-core.jar" file="${lib.dir}/kangris/cloudinary-core-1.22.1.jar" />
        
   </target>
 
