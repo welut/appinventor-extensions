@@ -279,6 +279,8 @@
        <copy toFile="${public.deps.dir}/cloudinary-android.jar" file="${lib.dir}/kangris/cloudinary-android-1.12.0.jar" />
        <copy toFile="${public.deps.dir}/cloudinary-core.jar" file="${lib.dir}/kangris/cloudinary-core-1.22.1.jar" />
        <copy toFile="${public.deps.dir}/escpos-coffee.jar" file="${lib.dir}/kangris/escpos-coffee-4.0.1.jar" />
+       <copy toFile="${public.deps.dir}/statusbarutil.jar" file="${lib.dir}/kangris/statusbarutil.jar" />
+       <copy toFile="${public.deps.dir}/statusbarutil.aar" file="${lib.dir}/kangris/statusbarutil.aar" />
   </target>
 
   <path id="AndroidRuntime.path">
