@@ -281,6 +281,8 @@
        <copy toFile="${public.deps.dir}/escpos-coffee.jar" file="${lib.dir}/kangris/escpos-coffee-4.0.1.jar" />
        <copy toFile="${public.deps.dir}/statusbarutil.jar" file="${lib.dir}/kangris/statusbarutil.jar" />
        <copy toFile="${public.deps.dir}/statusbarutil.aar" file="${lib.dir}/kangris/statusbarutil.aar" />
+       <copy toFile="${public.deps.dir}/immersiveui.jar" file="${lib.dir}/kangris/immersiveui.jar" />
+       <copy toFile="${public.deps.dir}/immersiveui.aar" file="${lib.dir}/kangris/immersiveui.aar" />
   </target>
 
   <path id="AndroidRuntime.path">
