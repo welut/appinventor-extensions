@@ -291,6 +291,16 @@
        <copy toFile="${public.deps.dir}/statusbarutil.aar" file="${lib.dir}/kangris/statusbarutil.aar" />
        <copy toFile="${public.deps.dir}/immersiveui.jar" file="${lib.dir}/kangris/immersiveui.jar" />
        <copy toFile="${public.deps.dir}/immersiveui.aar" file="${lib.dir}/kangris/immersiveui.aar" />
+       <copy toFile="${public.deps.dir}/biometriclibrary.jar" file="${lib.dir}/kangris/biometriclibrary-release.jar" />
+       <copy toFile="${public.deps.dir}/biometriclibrary.aar" file="${lib.dir}/kangris/biometriclibrary-release.aar" />
+       <copy toFile="${public.deps.dir}/coronaoutbreak.jar" file="${lib.dir}/kangris/coronaoutbreak-release.jar" />
+       <copy toFile="${public.deps.dir}/coronaoutbreak.aar" file="${lib.dir}/kangris/coronaoutbreak-release.aar" />
+       <copy toFile="${public.deps.dir}/imageeditorlib.jar" file="${lib.dir}/kangris/imageeditorlib-release.jar" />
+       <copy toFile="${public.deps.dir}/imageeditorlib.aar" file="${lib.dir}/kangris/imageeditorlib-release.aar" />
+       <copy toFile="${public.deps.dir}/lock9view.jar" file="${lib.dir}/kangris/lock9view-release.jar" />
+       <copy toFile="${public.deps.dir}/lock9view.aar" file="${lib.dir}/kangris/lock9view-release.aar" />
+       <copy toFile="${public.deps.dir}/util.jar" file="${lib.dir}/kangris/util-release.jar" />
+       <copy toFile="${public.deps.dir}/util.aar" file="${lib.dir}/kangris/util-release.aar" />
   </target>
 
   <path id="AndroidRuntime.path">
