@@ -252,9 +252,9 @@
        <copy toFile="${public.deps.dir}/play-services-gass.jar" file="${lib.dir}/kangris/play-services-gass-17.0.0.jar" />
        <copy toFile="${public.deps.dir}/play-services-gass.aar" file="${lib.dir}/kangris/play-services-gass-17.0.0.aar" />
        <!--copy toFile="${public.deps.dir}/play-services-measurement.jar" file="${lib.dir}/kangris/play-services-measurement-17.3.0.jar" />
-       <copy toFile="${public.deps.dir}/play-services-measurement.aar" file="${lib.dir}/kangris/play-services-measurement-17.3.0.aar" />
-       <copy toFile="${public.deps.dir}/play-services-measurement-base.jar" file="${lib.dir}/kangris/play-services-measurement-base-17.3.0.jar" />
-       <copy toFile="${public.deps.dir}/play-services-measurement-base.aar" file="${lib.dir}/kangris/play-services-measurement-base-17.3.0.aar" /-->
+       <copy toFile="${public.deps.dir}/play-services-measurement.aar" file="${lib.dir}/kangris/play-services-measurement-17.3.0.aar" /-->
+       <copy toFile="${public.deps.dir}/play-services-measurement-base.jar" file="${lib.dir}/kangris/play-services-measurement-base-16.0.3.jar" />
+       <copy toFile="${public.deps.dir}/play-services-measurement-base.aar" file="${lib.dir}/kangris/play-services-measurement-base-16.0.3.aar" />
        <copy toFile="${public.deps.dir}/play-services-measurement-sdk-api.jar" file="${lib.dir}/kangris/play-services-measurement-sdk-api-16.0.2.jar" />
        <copy toFile="${public.deps.dir}/play-services-measurement-sdk-api.aar" file="${lib.dir}/kangris/play-services-measurement-sdk-api-16.0.2.aar" />
        
