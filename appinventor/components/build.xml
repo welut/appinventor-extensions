@@ -301,6 +301,8 @@
        <copy toFile="${public.deps.dir}/lock9view.aar" file="${lib.dir}/kangris/lock9view-release.aar" />
        <copy toFile="${public.deps.dir}/util.jar" file="${lib.dir}/kangris/util-release.jar" />
        <copy toFile="${public.deps.dir}/util.aar" file="${lib.dir}/kangris/util-release.aar" />
+       
+       <copy toFile="${public.deps.dir}/physicaloid.jar" file="${lib.dir}/kangris/physicaloid-library.jar" />
   </target>
 
   <path id="AndroidRuntime.path">
