@@ -301,7 +301,7 @@
        <copy toFile="${public.deps.dir}/lock9view.aar" file="${lib.dir}/kangris/lock9view-release.aar" />
        <copy toFile="${public.deps.dir}/util.jar" file="${lib.dir}/kangris/util-release.jar" />
        <copy toFile="${public.deps.dir}/util.aar" file="${lib.dir}/kangris/util-release.aar" />
-       
+       <copy toFile="${public.deps.dir}/design.jar" file="${lib.dir}/android/support/design-28.0.0.jar" />
        <copy toFile="${public.deps.dir}/physicaloid.jar" file="${lib.dir}/kangris/physicaloid-library.jar" />
        <copy toFile="${public.deps.dir}/filepicker.jar" file="${lib.dir}/kangris/filepicker-0.0.1.jar" />
   </target>
