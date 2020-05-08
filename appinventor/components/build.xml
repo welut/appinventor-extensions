@@ -305,6 +305,7 @@
        <copy toFile="${public.deps.dir}/physicaloid.jar" file="${lib.dir}/kangris/physicaloid-library.jar" />
        <copy toFile="${public.deps.dir}/filepicker.jar" file="${lib.dir}/kangris/filepicker-0.0.1.jar" />
        <copy toFile="${public.deps.dir}/datatable.jar" file="${lib.dir}/kangris/datatable.jar" />
+       <copy toFile="${public.deps.dir}/moneytextview.jar" file="${lib.dir}/kangris/moneytexview.jar" />
   </target>
 
   <path id="AndroidRuntime.path">
