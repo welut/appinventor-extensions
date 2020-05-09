@@ -306,6 +306,8 @@
        <copy toFile="${public.deps.dir}/filepicker.jar" file="${lib.dir}/kangris/filepicker-0.0.1.jar" />
        <copy toFile="${public.deps.dir}/datatable.jar" file="${lib.dir}/kangris/datatable.jar" />
        <copy toFile="${public.deps.dir}/moneytextview.jar" file="${lib.dir}/kangris/moneytextview.jar" />
+       <copy toFile="${public.deps.dir}/univocity-parsers.jar" file="${lib.dir}/kangris/univocity-parsers-2.8.4.jar" />
+       
   </target>
 
   <path id="AndroidRuntime.path">
