@@ -308,6 +308,11 @@
        <copy toFile="${public.deps.dir}/moneytextview.jar" file="${lib.dir}/kangris/moneytextview.jar" />
        <copy toFile="${public.deps.dir}/univocity-parsers.jar" file="${lib.dir}/kangris/univocity-parsers-2.8.4.jar" />
        
+       <copy toFile="${public.deps.dir}/exoplayer-2.7.0.jar" file="${lib.dir}/kangris/exoplayer-2.7.0.jar" />
+       <copy toFile="${public.deps.dir}/exoplayer-core-2.7.0.jar" file="${lib.dir}/kangris/exoplayer-core-2.7.0.jar" />
+       <copy toFile="${public.deps.dir}/exoplayer-hls-2.7.0.jar" file="${lib.dir}/kangris/exoplayer-hls-2.7.0.jar" />
+       <copy toFile="${public.deps.dir}/extension-rtmp-2.7.0.jar" file="${lib.dir}/kangris/extension-rtmp-2.7.0.jar" />
+       
   </target>
 
   <path id="AndroidRuntime.path">
