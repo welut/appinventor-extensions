@@ -313,6 +313,7 @@
        <copy toFile="${public.deps.dir}/exoplayer-hls-2.7.0.jar" file="${lib.dir}/kangris/exoplayer-hls-2.7.0.jar" />
        <copy toFile="${public.deps.dir}/extension-rtmp-2.7.0.jar" file="${lib.dir}/kangris/extension-rtmp-2.7.0.jar" />
        <copy toFile="${public.deps.dir}/smp.jar" file="${lib.dir}/kangris/smp.jar" />
+       <copy toFile="${public.deps.dir}/magicplayer.jar" file="${lib.dir}/kangris/magicplayer.jar" />
        
   </target>
 
