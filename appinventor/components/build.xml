@@ -315,6 +315,9 @@
        <copy toFile="${public.deps.dir}/smp.jar" file="${lib.dir}/kangris/smp.jar" />
        <copy toFile="${public.deps.dir}/magicplayer.jar" file="${lib.dir}/kangris/magicplayer.jar" />
        
+       <copy toFile="${public.deps.dir}/glide.jar" file="${lib.dir}/kangris/glide.jar" />
+       <copy toFile="${public.deps.dir}/cardview.jar" file="${lib.dir}/kangris/cardview.jar" />
+       
   </target>
 
   <path id="AndroidRuntime.path">
