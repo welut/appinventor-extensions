@@ -316,7 +316,8 @@
        <copy toFile="${public.deps.dir}/magicplayer.jar" file="${lib.dir}/kangris/magicplayer.jar" />
        
        <copy toFile="${public.deps.dir}/glide.jar" file="${lib.dir}/kangris/glide.jar" />
-       <copy toFile="${public.deps.dir}/cardview.jar" file="${lib.dir}/kangris/cardview.jar" />
+       <copy toFile="${public.deps.dir}/cardviewx.jar" file="${lib.dir}/kangris/cardviewx.jar" />
+       <copy toFile="${public.deps.dir}/cardview-v7.jar" file="${lib.dir}/kangris/cardview-v7.jar" />
        
   </target>
 
