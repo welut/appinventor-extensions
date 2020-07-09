@@ -103,3 +103,5 @@ public @interface DesignerComponent {
    */
   String dateBuilt() default "";
 }
+
+boolean hasCustomMock() default false;
