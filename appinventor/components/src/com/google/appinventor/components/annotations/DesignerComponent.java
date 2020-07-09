@@ -102,6 +102,6 @@ public @interface DesignerComponent {
    * the component.
    */
   String dateBuilt() default "";
+  
+  boolean hasCustomMock() default false;
 }
-
-boolean hasCustomMock() default false;
