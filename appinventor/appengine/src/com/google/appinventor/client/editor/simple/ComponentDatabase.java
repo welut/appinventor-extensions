@@ -242,6 +242,24 @@ class ComponentDatabase implements ComponentDatabaseInterface {
     }
     return component.isNonVisible();
   }
+  
+  @Override
+  public boolean isContainer(String componentName) {
+    ComponentDefinition component = components.get(componentName);
+    if (component == null) {
+      throw new ComponentNotFoundException(componentName);
+    }
+    return component.isContainer();
+  }
+
+  @Override
+  public boolean hasCustomMock(String componentName) {
+    ComponentDefinition component = components.get(componentName);
+    if (component == null) {
+      throw new ComponentNotFoundException(componentName);
+    }
+    return component.hasCustomMock();
+  }
 
   @Override
   public String getIconName(String componentName) {
