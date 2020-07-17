@@ -323,6 +323,7 @@
        <copy toFile="${public.deps.dir}/animationparallex.jar" file="${lib.dir}/kangris/library-2.4.0.jar" />
        <!-- CoverMusic-->
        <copy toFile="${public.deps.dir}/cm.jar" file="${lib.dir}/kangris/cm.jar" />
+       <copy toFile="${public.deps.dir}/cm.aar" file="${lib.dir}/kangris/cm.aar" />
        
   </target>
 
