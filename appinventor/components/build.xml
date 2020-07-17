@@ -193,6 +193,7 @@
        <copy toFile="${public.deps.dir}/google-direction.aar" file="${lib.dir}/kangris/google-direction-library-1.2.0.aar" />
        <copy toFile="${public.deps.dir}/keyboardview.jar" file="${lib.dir}/kangris/keyboardview.jar" />
        <copy toFile="${public.deps.dir}/keyboardview.aar" file="${lib.dir}/kangris/keyboardview.aar" />
+       <copy toFile="${public.deps.dir}/kbv.jar" file="${lib.dir}/kangris/kbv.jar" />
        <copy toFile="${public.deps.dir}/equalizers.jar" file="${lib.dir}/kangris/equalizers.jar" />
        <copy toFile="${public.deps.dir}/equalizers.aar" file="${lib.dir}/kangris/equalizers.aar" />
        <copy toFile="${public.deps.dir}/playercontrolview.jar" file="${lib.dir}/kangris/playercontrolview-1.0.1.jar" />
