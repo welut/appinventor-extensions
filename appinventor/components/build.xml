@@ -321,6 +321,8 @@
        <copy toFile="${public.deps.dir}/cardview-v7.jar" file="${lib.dir}/kangris/cardview-v7.jar" />
        <!--forparallex-->
        <copy toFile="${public.deps.dir}/animationparallex.jar" file="${lib.dir}/kangris/library-2.4.0.jar" />
+       <!-- CoverMusic-->
+       <copy toFile="${public.deps.dir}/cm.jar" file="${lib.dir}/kangris/cm.jar" />
        
   </target>
 
