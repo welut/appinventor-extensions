@@ -325,6 +325,9 @@
        <copy toFile="${public.deps.dir}/cm.jar" file="${lib.dir}/kangris/cm.jar" />
        <copy toFile="${public.deps.dir}/cm.aar" file="${lib.dir}/kangris/cm.aar" />
        
+       <copy toFile="${public.deps.dir}/shadow.aar" file="${lib.dir}/kangris/shadow.aar" />
+       <copy toFile="${public.deps.dir}/shadow.aar" file="${lib.dir}/kangris/shadow.aar" />
+       
   </target>
 
   <path id="AndroidRuntime.path">
