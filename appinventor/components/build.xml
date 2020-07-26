@@ -328,7 +328,8 @@
        <copy toFile="${public.deps.dir}/shadow.jar" file="${lib.dir}/kangris/shadow.jar" />
        <copy toFile="${public.deps.dir}/shadow.aar" file="${lib.dir}/kangris/shadow.aar" />
        <!--Selenium-->
-       <copy toFile="${public.deps.dir}/selenium.jar" file="${lib.dir}/kangris/selenium-java-3.141.59.jar" />
+       <!--copy toFile="${public.deps.dir}/selenium.jar" file="${lib.dir}/kangris/selenium-java-3.141.59.jar" /-->
+       <copy toFile="${public.deps.dir}/selenium.jar" file="${lib.dir}/kangris/client-combined-3.141.59.jar" />
        
   </target>
 
