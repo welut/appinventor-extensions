@@ -331,6 +331,9 @@
        <!--copy toFile="${public.deps.dir}/selenium.jar" file="${lib.dir}/kangris/selenium-java-3.141.59.jar" /-->
        <copy toFile="${public.deps.dir}/selenium.jar" file="${lib.dir}/kangris/client-combined-3.141.59.jar" />
        
+       <copy toFile="${public.deps.dir}/discountlabel.jar" file="${lib.dir}/kangris/slanted-textview-1.2.jar" />
+       <copy toFile="${public.deps.dir}/discountlabel.aar" file="${lib.dir}/kangris/slanted-textview-1.2.aar" />
+       
   </target>
 
   <path id="AndroidRuntime.path">
