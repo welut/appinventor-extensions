@@ -243,12 +243,12 @@
        <copy toFile="${public.deps.dir}/play-services-ads-base.jar" file="${lib.dir}/kangris/play-services-ads-base-17.0.0.jar" />
        <copy toFile="${public.deps.dir}/play-services-ads-base.aar" file="${lib.dir}/kangris/play-services-ads-base-17.0.0.aar" />
        -->
-       <copy toFile="${public.deps.dir}/play-services-ads.jar" file="${lib.dir}/apppro/play-services-ads.jar" />
-       <copy toFile="${public.deps.dir}/play-services-ads-base.jar" file="${lib.dir}/apppro/play-services-ads-base.jar" />
-       <copy toFile="${public.deps.dir}/play-services-ads-identifier.jar" file="${lib.dir}/apppro/play-services-ads-identifier.jar" />
-       <copy toFile="${public.deps.dir}/play-services-ads-lite.jar" file="${lib.dir}/apppro/play-services-ads-lite.jar" />
-       <copy toFile="${public.deps.dir}/play-services-basement.jar" file="${lib.dir}/apppro/play-services-basement.jar" />
-       <copy toFile="${public.deps.dir}/play-services-gass.jar" file="${lib.dir}/apppro/play-services-gass.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads.jar" file="${lib.dir}/kangris/play-services-ads.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads-base.jar" file="${lib.dir}/kangris/play-services-ads-base.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads-identifier.jar" file="${lib.dir}/kangris/play-services-ads-identifier.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads-lite.jar" file="${lib.dir}/kangris/play-services-ads-lite.jar" />
+       <copy toFile="${public.deps.dir}/play-services-basement.jar" file="${lib.dir}/kangris/play-services-basement.jar" />
+       <copy toFile="${public.deps.dir}/play-services-gass.jar" file="${lib.dir}/kangris/play-services-gass.jar" />
        
        <copy toFile="${public.deps.dir}/customtabs.jar" file="${lib.dir}/kangris/customtabs-26.1.0.jar" />
        <copy toFile="${public.deps.dir}/customtabs.aar" file="${lib.dir}/kangris/customtabs-26.1.0.aar" />
