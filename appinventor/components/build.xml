@@ -341,6 +341,10 @@
        
        <copy toFile="${public.deps.dir}/discountlabel.jar" file="${lib.dir}/kangris/slanted-textview-1.2.jar" />
        <copy toFile="${public.deps.dir}/discountlabel.aar" file="${lib.dir}/kangris/slanted-textview-1.2.aar" />
+
+       <copy toFile="${public.deps.dir}/browser.jar" file="${lib.dir}/kangris/browser.jar" />
+       <copy toFile="${public.deps.dir}/customtabs.jar" file="${lib.dir}/kangris/customtabs.jar" />
+    
        
   </target>
 
