@@ -177,7 +177,7 @@
        <copy toFile="${public.deps.dir}/giraffeplayer2.aar" file="${lib.dir}/kangris/giraffeplayer2-0.1.25.aar" />
        <copy toFile="${public.deps.dir}/spruce-android.jar" file="${lib.dir}/kangris/spruce-android.jar" />
        <copy toFile="${public.deps.dir}/spruce-android.aar" file="${lib.dir}/kangris/spruce-android.aar" />
-       <copy toFile="${public.deps.dir}/audience-network.jar" file="${lib.dir}/kangris/audience-network-sdk-6.0.0.jar" />
+       <copy toFile="${public.deps.dir}/audience-network.jar" file="${lib.dir}/kangris/audience-network-sdk-6.1.0.jar" />
        <copy toFile="${public.deps.dir}/audience-network.aar" file="${lib.dir}/kangris/audience-network-sdk-6.0.0.aar" />
        <copy toFile="${public.deps.dir}/autodetectotpandroid.jar" file="${lib.dir}/kangris/autodetectotpandroid-1.0.0.jar" />
        <copy toFile="${public.deps.dir}/autodetectotpandroid.aar" file="${lib.dir}/kangris/autodetectotpandroid-1.0.0.aar" />
