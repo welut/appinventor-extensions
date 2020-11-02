@@ -344,7 +344,7 @@
 
        <copy toFile="${public.deps.dir}/browser.jar" file="${lib.dir}/kangris/browser.jar" />
        <copy toFile="${public.deps.dir}/customtabs.jar" file="${lib.dir}/kangris/customtabs.jar" />
-       <copy toFile="${public.deps.dir}/picasso.jar " file="${lib.dir}/kangris/picasso-2.8.jar " />
+       <copy toFile="${public.deps.dir}/picasso.jar" file="${lib.dir}/kangris/picasso-2.8.jar" />
     
        
   </target>
