@@ -350,6 +350,7 @@
        <copy toFile="${public.deps.dir}/code-scanner.aar" file="${lib.dir}/kangris/code-scanner-2.1.0.aar" />
        
        <copy toFile="${public.deps.dir}/zview.jar" file="${lib.dir}/kangris/zview.jar" />
+       <copy toFile="${public.deps.dir}/zview.aar" file="${lib.dir}/kangris/zview.aar" />
     
        
   </target>
